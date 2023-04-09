@@ -1,7 +1,7 @@
 # C5-DayPlanner
 
 ## Description
-Simple day planner that displays the current date and changes the color of events based on past present and future classes using day.js.
+Simple day planner that displays the current date and changes the color of events based on past, present, and future classes using day.js.
 
 ## Deployed Application
 https://evanacoates.github.io/C5-DayPlanner/
