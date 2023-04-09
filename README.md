@@ -4,6 +4,7 @@
 Simple day planner that displays the current date and changes the color of events based on past present and future classes using day.js.
 
 ## Deployed Application
+https://evanacoates.github.io/C5-DayPlanner/
 
 ## Screenshots
 <img width="1312" alt="Screenshot 2023-04-09 at 6 39 46 PM" src="https://user-images.githubusercontent.com/113846878/230799771-020fcd85-8885-4d75-a471-3db82f2761e1.png">
