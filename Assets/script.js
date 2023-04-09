@@ -21,7 +21,8 @@
     //
     // TODO: Add code to display the current date in the header of the page.
     $(document).ready(function() {
-      var currentDay = dayjs();
-      var formattedDate = currentDay.format('ddd MMM D YYYY');
-      $('head').append('<meta name="date" content="' + formattedDate + '">');
+      var currentDate = dayjs();
+      var formattedDate = currentDate.format('dddd, MMMM D, YYYY');
+      $('#date').text(formattedDate);
     });
+    
